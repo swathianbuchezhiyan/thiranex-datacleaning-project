@@ -1,4 +1,4 @@
-# Thiranex Data Cleaning & Visualization Project
+ Data Cleaning & Visualization Project
 
 ## About Project
 This project focuses on cleaning and analyzing an advertising dataset to find insights using Python.
